@@ -1,5 +1,5 @@
-* Team 18
+# Team 18
 
-Jack Umina
+### Jack Umina
 
-Kelvin Shen
+### Kelvin Shen
